@@ -31,10 +31,10 @@ Patch4: nmap-6.25-displayerror.patch
 # https://github.com/nmap/nmap/pull/2247
 Patch7: nmap_resolve_config.patch
 ## https://github.com/nmap/nmap/commit/28bfe0dfd26dbc4e9917db9ad5457ab496769d24.patch
-Patch9: nmap-safe_fd_functions.patch
+# Patch9: nmap-safe_fd_functions.patch
 
 ## https://github.com/nmap/nmap/commit/f6b40614e4a8131394792d590965f8af3c635323.patch
-Patch10: nmap-unix_crash.patch
+# Patch10: nmap-unix_crash.patch
 
 BuildRequires: automake make
 BuildRequires: autoconf
